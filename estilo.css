@@ -39,7 +39,7 @@ body {
 .logo {
 
     padding: 0 40px;
-    background-image: url(/ESCUDO\ 1080x1080.png);
+    background-image: url(/ESCUDO-1080x1080.png);
     background-size: 50px 50px;
     background-repeat: no-repeat;
     margin: 5px 30px;
@@ -407,7 +407,7 @@ p {
         font-size: 30px;
         font-weight: bold;
         padding: 5px 40px;
-        background-image: url(/ESCUDO\ 1080x1080.png);
+        background-image: url(/ESCUDO-1080x1080.png);
         background-size: 35px 35px;
         background-repeat: no-repeat;
         margin: 10px 20px;
