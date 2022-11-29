@@ -294,6 +294,67 @@ p {
 
 
 
+.title3 {
+
+    margin-bottom: 40px;
+    font-size: 60px;
+    font-weight: 500;
+    text-transform: uppercase;
+    -webkit-text-stroke: 4px rgb(253, 250, 255);
+    color: #feffff;
+    text-shadow: 0 0 1px #50abd4,
+        0 0 0px #50abd4,
+        0 0 80px #50abd4;
+    text-align: center;
+
+}
+
+
+.end {
+    align-items: center;
+    display: block;
+    padding: 10px 30px;
+    margin: 0px;
+    height: 200px;
+    width: 100%;
+    color: #9c27b0;
+    text-shadow: 0 0 10px #a945c7,
+        0 0 40px #a945c7,
+        0 0 80px #910aff;
+    line-height: 30px;
+    background: #1f1d1d;
+
+}
+
+.end .ended {
+    display: block;
+    text-align: center;
+    font-size: 17px;
+    list-style: none;
+    max-width: max-content;
+}
+
+
+.escudo {
+    display: flex;
+    margin: 10px 115px;
+   
+    height: 100px;
+    width: 100px;
+    background-image: url(/ESCUDO\ 1080x1080.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    padding: 0 44%;
+}
+
+
+
+
+
+
+
+
 
 /***********************************************/
 
@@ -536,7 +597,7 @@ p {
         width: 100%;
         display: block;
         flex-direction: column;
-       text-align:  center;
+        text-align: center;
 
     }
 
@@ -617,10 +678,10 @@ p {
     }
 
 
-    
+
 
     .title3 {
-       
+
         display: block;
         font-size: 35px;
         font-weight: 100;
@@ -631,12 +692,12 @@ p {
             0 0 0px #50abd4,
             0 0 80px #50abd4;
         /*background-color: #1010105b;*/
-       
+
         width: 100%;
 
     }
 
-   
+
 
 
 
